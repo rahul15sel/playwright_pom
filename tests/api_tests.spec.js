@@ -9,7 +9,7 @@ test('API GET REquest', async ({ request }) => {
         },
         data: {
             "username": "admin",
-            "password": "scvzt28d9kh573"
+            "password": ""
 
         },
     });
